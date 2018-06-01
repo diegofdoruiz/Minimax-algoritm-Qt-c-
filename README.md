@@ -11,3 +11,4 @@
     Qt 5.10.1
     OS: macOS High Sierra (10.13)
     c++ 11 / 14
+    
