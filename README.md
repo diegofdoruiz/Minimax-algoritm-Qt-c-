@@ -11,4 +11,5 @@
     Qt 5.10.1
     OS: macOS High Sierra (10.13)
     c++ 11 / 14
-    
+![alt text](https://github.com/diegopccali1/Minimax-algoritm-Qt-c-/blob/master/images/capture.png)
+
